@@ -34,8 +34,20 @@ Some further notes: For papers from *ACL conferences (ACL, NAACL, EACL, etc.), i
 **Grade for the module:** To get a grade for the course, you will have to write a term paper (not necessarily) on the topic(s) you presented.
 
 
+### Overview
 
-### Introduction
+1. [Introduction](#intro)
+2. Topic 1: [Benchmarking](#bench)
+2. Topic 2: [Meaning, as Seen from NLP](#nlpmean)
+2. Topic 3: [Symbol Grounding](#ground)
+2. Topic 4: [Classic NLU](#classic)
+2. Topic 5: [Meanings, as Seen from the Philosophy of Language](#phil)
+2. Topic 6: [Word Meanings](#words)
+
+
+
+
+### Introduction <a name="intro"></a>
 
 We start with a puzzle: We have NLP models that seem to be solving tasks that seem to require fairly sophisticated language understanding, and yet the "intelligent agents" (Alexa, Siri, etc.) that we have ... kind of suck. Why is that? Is that because Amazon, Apple, etc are lazy, and don’t yet know how to utilise these "natural language understanding" models? Or is it that the kind of understanding exhibited on NLP language tasks is different from the practical understanding required for intelligent assistants? And if that is so, is that a problem, and for whom?
 Is "understanding" something that can be exhibited and measured in single instances of "understanding tasks", with these measures then being aggregated into an average score of "understanding", or is it something that must be sustained and (cooperatively) achieved?
@@ -58,7 +70,7 @@ This framing has already used a distinction that I will try to sharpen a bit fur
 
 
 
-### Topic 1: Benchmarking
+### Topic 1: Benchmarking <a name="bench"></a>
 
 #### 1.1: General Language Understanding Evaluation; Imitation Game
 
@@ -117,7 +129,7 @@ This framing has already used a distinction that I will try to sharpen a bit fur
 
 
 
-### Topic 2: Meaning, as seen from NLP
+### Topic 2: Meaning, as seen from NLP <a name="nlpmean"></a>
 
 #### Main Readings
 
@@ -137,7 +149,7 @@ And one of (which one to be determined):
 
 
 
-### Topic 3: Symbol Grounding 
+### Topic 3: Symbol Grounding <a name="ground"></a>
 
 
 #### Main Reading
@@ -152,7 +164,7 @@ And one of (which one to be determined):
 
 
 
-### Topic 4: A Blast from the Past: Classic NLU
+### Topic 4: A Blast from the Past: Classic NLU <a name="classic"></a>
 
 #### Main Reading
 
@@ -162,7 +174,7 @@ And one of (which one to be determined):
 
 
 
-### Topic 5: Theories of Meaning / Philosophy of Language
+### Topic 5: Theories of Meaning / Philosophy of Language <a name="phil"></a>
 
 #### 5.1: Overview; Using Language
 
@@ -207,7 +219,7 @@ And one of (which one to be determined):
 * Lewis, D. (1975). Languages and Language. In K. Gunderson (Ed.), Minnesota Studies in the Philosophy of Science.
 
 
-#### Topic 6: Word Meanings
+#### Topic 6: Word Meanings <a name="words"></a>
 
 ##### Main Reading
 
