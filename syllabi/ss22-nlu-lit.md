@@ -1,6 +1,6 @@
 *Natural Language Understanding? D. Schlangen, U Potsdam, Summer 2022*
 
-*v0.1 2022-04-18: most references added; most topic descriptions missing*
+*v0.2 2022-04-25: some links added*
 
 ## Syllabus for "Natural Language Understanding: What does it Mean?", Summer 2022, D. Schlangen
 
@@ -61,9 +61,9 @@ This framing has already used a distinction that I will try to sharpen a bit fur
 
 #### Background Material
 
-- David Schlangen. 2021. Targeting the Benchmark: On Methodology in Current Natural Language Processing Research. In Proceedings of ACL 2021, pages 670–674, Online. Association for Computational Linguistics.
-- Schlangen, D. 2019. Language Tasks and Language Games: On Methodology in Current Natural Language Processing Research. CoRR 2019  [an older, but longer version of the above that focusses more on the distinction between tasks and games]
-- a recent talk of mine, [Are We Nearly There Yet? On NLU and NL-Use](https://clp.ling.uni-potsdam.de/talks/index.html#nearlythere) that starts from the same puzzle (indeed, the same slides); with video of the talk, if you feel like listening to another hour of me talking.
+- David Schlangen. 2021. Targeting the Benchmark: On Methodology in Current Natural Language Processing Research. In Proceedings of ACL 2021, pages 670–674, Online. Association for Computational Linguistics. [[pdf]](https://aclanthology.org/2021.acl-short.85/)
+- Schlangen, D. 2019. Language Tasks and Language Games: On Methodology in Current Natural Language Processing Research. CoRR 2019  (an older, but longer version of the above that focusses more on the distinction between tasks and games) [[pdf]](https://clp.ling.uni-potsdam.de/bibliography/Schlangen-2019-1/)
+- a recent talk of mine, "[Are We Nearly There Yet? On NLU and NL-Use](https://clp.ling.uni-potsdam.de/talks/index.html#nearlythere)", that starts from the same puzzle (indeed, the same slides); with video of the talk, if you feel like listening to another hour of me talking.
 - very recent (2022-04-18) blog post by Emily Bender, [On NYT Magazine on AI: Resist the Urge to be Impressed](https://medium.com/@emilymenonbender/on-nyt-magazine-on-ai-resist-the-urge-to-be-impressed-3d92fd9a0edd)
 - A class that's actually on the *how* of NLU: Chris Potts' [CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/)
 - Again Chris Potts, with [Perspectives on meaning and interpretation](https://web.stanford.edu/class/linguist130a/materials/ling130a-meaning-interpretation.pdf)
@@ -138,7 +138,7 @@ This framing has already used a distinction that I will try to sharpen a bit fur
 And one of (which one to be determined):
 
 * Dunietz, J., Burnham, G., Bharadwaj, A., Rambow, O., Chu-Carroll, J., & Ferrucci, D. (2020). To Test Machine Comprehension, Start by Defining Comprehension. In ACL 2020 (pp. 7839–7859).
-* Mcclelland, J. L., Hill, F., Rudolph, M., Baldridge, J., & Schütze, H. (2019). Extending Machine Language Models toward Human-Level Language Understanding, 1–8.  https://doi.org/10.48550/arXiv.1912.05877
+* McClelland, J. L., Hill, F., Rudolph, M., Baldridge, J., & Schütze, H. (2019). Extending Machine Language Models toward Human-Level Language Understanding, 1–8.  https://doi.org/10.48550/arXiv.1912.05877
 * Trott, S., Chang, N., & Schneider, N. (2020). (Re)construing Meaning in NLP. In ACL 2020 (pp. 5170–5184).
 
 
