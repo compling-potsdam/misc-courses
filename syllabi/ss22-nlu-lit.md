@@ -1,6 +1,6 @@
 *Natural Language Understanding? D. Schlangen, U Potsdam, Summer 2022*
 
-*v0.2 2022-04-25: some links added*
+*v0.3 2022-04-25: 2 papers added to 1.1.1*
 
 ## Syllabus for "Natural Language Understanding: What does it Mean?", Summer 2022, D. Schlangen
 
@@ -78,7 +78,7 @@ This framing has already used a distinction that I will try to sharpen a bit fur
 
 * Presentation 1
 
-    * Williams, A., Nangia, N., & Bowman, S. R. (2018). A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference. In NAACL 2018.
+    * Wang, A., Singh, A., Michael, J., Hill, F., Levy, O., & Bowman, S. R. (2019). GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding. In ICLR 2019.
     * Wang, A., Pruksachatkun, Y., Nangia, N., Singh, A., Michael, J., Hill, F., … Bowman, S. R. (2019). SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems. In NeurIPS.  [main focus; data can be explored via [Hugging Face Datasets](https://huggingface.co/datasets/super_glue)]
 * Presentation 2
     * Turing, A. M. (1950). Computing Machinery and Intelligence. Mind, 59(236), 433–460. [Sections 1--3, 6, 7.]
@@ -86,6 +86,8 @@ This framing has already used a distinction that I will try to sharpen a bit fur
 
 ##### Background 
 
+* Williams, A., Nangia, N., & Bowman, S. R. (2018). A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference. In NAACL 2018.
+* Nangia, N., & Bowman, S. R. (2019). Human vs. Muppet: A conservative estimate of human performance on the GLUE benchmark. In ACL 2019 - 57th Annual Meeting of the Association for Computational Linguistics, Proceedings of the Conference - Short Papers (pp. 4566–4575).
 * The [BIG-bench (Beyond the Imitation Game Benchmark)](https://github.com/google/BIG-bench) project.
 
 ##### Further Reading
