@@ -1,36 +1,46 @@
 *NLP Pragmatics  CLP Group, U Potsdam, Summer 2022*
 
 *v0.1 2022-05-02: Intro added*
+*v0.1 2022-05-10: Background reading and first paper added*
 
 ## Agenda for the Reading Group on "NLP Pragmatics", Summer 2022, CLP Group
 
 ### Overview
 
 This is an internal, bi-weekly reading group led by the Foundations of Computational Linguistics group.
-Participation is open for interested students, please contact jana . goetze @ uni-potsdam.de.
+Participation is open for interested students and researchers, please contact jana . goetze @ uni-potsdam.de.
 
-The broad topic of this reading group is *NLP Pragmatics*: we want to get an overview of how pragmatic aspects are incorporated in current NLP models, with a special focus on Natural Language Generation in both discourse and dialog.
+The broad topic of this reading group is *NLP Pragmatics*: we want to get an overview of how pragmatic aspects are incorporated in current NLP models in both discourse and dialog.
 
 ### Technicalities
 
-**Day and time:** We meet every other Tuesday, 1-3 pm, even weeks.
+**Day and time:** We meet every other Tuesday, 1-2 pm, even weeks, see dates below.
 
-**Setup:** TBD. (is someone presenting or not? do we decide on questions to discuss in the previous meeting?)
+**Place:** We meet in the meeting room in II.14.2 (Golm, building 14, 2nd floor). If the weather is nice, we may decide to go outside.
 
+**Setup:**
+
+- Everyone is expected to have read the week's readings. In addition, the background readings may be of help for context.
+
+- In the shared google doc, post questions *before* the meeting: Questions could be about unclear arguments in the reading, or about content, or about things you want to discuss.
+
+- Bring notes about reviewing aspects of what you have read: How would you summarize the paper? What are the strengths and weaknesses? What are possible limitations that the authors might not have mentioned?
 
 ### Background Material
 
-- [clark2021] Clark, E., August, T., Serrano, S., Haduong, N., Gururangan, S., & Smith, N. A. (2021). All That’s 'Human' Is Not Gold: Evaluating Human Evaluation of Generated Text. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), 7282–7296. https://doi.org/10.18653/v1/2021.acl-long.565
+Background reading for all sessions (if you are unfamiliar with pragmatics):
 
-- [dou2022] Dou, Y., Forbes, M., Koncel-Kedziorski, R., Smith, N. A., & Choi, Y. (2022). Is GPT-3 Text Indistinguishable from Human Text? Scarecrow: A Framework for Scrutinizing Machine Text. ArXiv:2107.01294 [Cs]. http://arxiv.org/abs/2107.01294
+> Leech, G. (2012). Pragmatics and Dialogue (R. Mitkov, Ed.; Vol. 1). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199276349.013.0007
+
+> Jurafsky, D. (to appear). Pragmatics and Computational Linguistics. To appear in Laurence R. Horn and Gregory Ward (eds.) Handbook of Pragmatics. Oxford: Blackwell. https://web.stanford.edu/~jurafsky/prag.pdf
 
 ### Agenda
 
-| Date | Paper(s)|
-|-----------|------|
-| 2022-05-03 | clark2021, dou2022 |
-| 2022-05-31 | |
-| 2022-06-14 | |
-| 2022-06-28 | |
-| 2022-07-12 | |
-| 2022-07-26 | |
+| Date | Readings | Notes
+|---|---|---|
+| 2022-05-17 | Pandia, L., Cong, Y., & Ettinger, A. (2021). Pragmatic competence of pre-trained language models through the lens of discourse connectives. Proceedings of the 25th Conference on Computational Natural Language Learning, 367–379. https://doi.org/10.18653/v1/2021.conll-1.29 |  |
+| 2022-05-31 | ||
+| 2022-06-14 | ||
+| 2022-06-28 | ||
+| 2022-07-12 | ||
+| 2022-07-26 | ||
