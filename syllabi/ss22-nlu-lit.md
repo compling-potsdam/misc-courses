@@ -1,6 +1,6 @@
 *Natural Language Understanding? D. Schlangen, U Potsdam, Summer 2022*
 
-*v0.3 2022-04-25: 2 papers added to 1.1.1*
+*v0.4 2022-05-11: selection made in 2; some papers moved*
 
 ## Syllabus for "Natural Language Understanding: What does it Mean?", Summer 2022, D. Schlangen
 
@@ -135,19 +135,15 @@ This framing has already used a distinction that I will try to sharpen a bit fur
 
 #### Main Readings
 
-* Bender, E. M., & Koller, A. (2020). Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL) (pp. 5185–5198).
-
-And one of (which one to be determined):
-
 * Dunietz, J., Burnham, G., Bharadwaj, A., Rambow, O., Chu-Carroll, J., & Ferrucci, D. (2020). To Test Machine Comprehension, Start by Defining Comprehension. In ACL 2020 (pp. 7839–7859).
-* McClelland, J. L., Hill, F., Rudolph, M., Baldridge, J., & Schütze, H. (2019). Extending Machine Language Models toward Human-Level Language Understanding, 1–8.  https://doi.org/10.48550/arXiv.1912.05877
-* Trott, S., Chang, N., & Schneider, N. (2020). (Re)construing Meaning in NLP. In ACL 2020 (pp. 5170–5184).
+* Bender, E. M., & Koller, A. (2020). Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL) (pp. 5185–5198).
 
 
 #### Background
 
 * The Stanford Encyclopedia of Philosophy on [The Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room/)
 * 2020 Blog Post by Chris Potts, [Is it possible for language models to achieve language understanding?](https://chrisgpotts.medium.com/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2)
+* Trott, S., Chang, N., & Schneider, N. (2020). (Re)construing Meaning in NLP. In ACL 2020 (pp. 5170–5184).
 
 
 
@@ -156,13 +152,14 @@ And one of (which one to be determined):
 
 #### Main Reading
 
+* Chandu, K. R., Bisk, Y., & Black, A. W. (2021). Grounding “Grounding” in NLP. In Findings of ACL-IJCNLP 2021 (pp. 4283–4305).
 * Bisk, Y., Holtzman, A., Thomason, J., Andreas, J., Bengio, Y., Chai, J., … Turian, J. (2020). Experience grounds language. EMNLP 2020 - 2020 Conference on Empirical Methods in Natural Language Processing, Proceedings of the Conference, 8718–8735. [main focus]
 
 
 #### Background
 
 * Harnad, S. (1990). The Symbol Grounding Problem. Physica D, 42, 335–346.
-* Chandu, K. R., Bisk, Y., & Black, A. W. (2021). Grounding “Grounding” in NLP. In Findings of ACL-IJCNLP 2021 (pp. 4283–4305).
+* McClelland, J. L., Hill, F., Rudolph, M., Baldridge, J., & Schütze, H. (2019). Extending Machine Language Models toward Human-Level Language Understanding, 1–8.  https://doi.org/10.48550/arXiv.1912.05877
 
 
 
