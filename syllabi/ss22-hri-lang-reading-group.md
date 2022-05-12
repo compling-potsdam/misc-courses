@@ -1,4 +1,4 @@
-*HRI & Languagae CLP Group, U Potsdam, Summer 2022*
+*HRI & Language CLP Group, U Potsdam, Summer 2022*
 
 *2022-05-12: Intro from JG and first papers added*
 
