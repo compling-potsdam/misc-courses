@@ -5,7 +5,7 @@ Participation is open for interested students and researchers.
 
 This is a reading group with two threads:
 
-- HRI and NLP
+- [HRI & Language](ss22-hri-lang-reading-group.md)
 
 - [NLP Pragmatics](ss22-nlp-prag-reading-group.md)
 
