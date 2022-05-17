@@ -1,7 +1,8 @@
 *NLP Pragmatics  CLP Group, U Potsdam, Summer 2022*
 
 *v0.1 2022-05-02: Intro added*
-*v0.1 2022-05-10: Background reading and first paper added*
+*v0.2 2022-05-10: Background reading and first paper added*
+*v0.3 2022-05-17: Add paper 2*
 
 ## Agenda for the Reading Group on "NLP Pragmatics", Summer 2022, CLP Group
 
@@ -39,7 +40,7 @@ Background reading for all sessions (if you are unfamiliar with pragmatics):
 | Date | Readings | Notes
 |---|---|---|
 | 2022-05-17 | Pandia, L., Cong, Y., & Ettinger, A. (2021). Pragmatic competence of pre-trained language models through the lens of discourse connectives. Proceedings of the 25th Conference on Computational Natural Language Learning, 367–379. https://doi.org/10.18653/v1/2021.conll-1.29 |  |
-| 2022-05-31 | ||
+| 2022-05-31 | Goldwasser, D., & Daumé III, H. (2014). “I Object!” Modeling Latent Pragmatic Effects in Courtroom Dialogues. Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, 655–663. https://doi.org/10.3115/v1/E14-1069 ||
 | 2022-06-14 | ||
 | 2022-06-28 | ||
 | 2022-07-12 | ||
