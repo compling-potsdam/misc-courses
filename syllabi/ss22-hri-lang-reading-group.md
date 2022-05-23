@@ -28,7 +28,8 @@ The broad topic of this reading group is *HRI & Language*: we want to get an ove
 | Date | Paper
 |---|---|
 | 2022-05-10 | J. Y. Chai, L. She, R. Fang, S. Ottarson, C. Littley, C. Liu, and K. Hanson, “Collaborative effort towards common ground in situated human-robot dialogue,” in 2014 9th ACM/IEEE International Conference on Human-Robot Interaction (HRI). IEEE, 2014, pp. 33–40. |
-| 2022-05-24 | Branigan, H. P., Pickering, M. J., Pearson, J., & McLean, J. F. (2010). Linguistic alignment between people and computers. Journal of pragmatics, 42(9), 2355-2368. |
+| 2022-05-24 | CANCELLED |
+| 2022-06-07 | Branigan, H. P., Pickering, M. J., Pearson, J., & McLean, J. F. (2010). Linguistic alignment between people and computers. Journal of pragmatics, 42(9), 2355-2368. |
 
 ### Future readings
 
