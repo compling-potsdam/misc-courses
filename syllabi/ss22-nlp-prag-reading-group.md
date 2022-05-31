@@ -5,9 +5,8 @@
 *v0.2 2022-05-10: Background reading and first paper added*
 
 *v0.3 2022-05-17: Add paper 2*
-*v0.3 2022-05-31: Add paper 3*
 
-*v0.4 2022-05-17: Add paper 3*
+*v0.4 2022-05-31: Add paper 3*
 
 ## Agenda for the Reading Group on "NLP Pragmatics", Summer 2022, CLP Group
 
