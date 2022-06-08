@@ -1,7 +1,5 @@
 *HRI & Language CLP Group, U Potsdam, Summer 2022*
 
-*2022-05-12: Intro from JG and first papers added*
-
 ## Agenda for the Reading Group on "HRI & Language", Summer 2022, CLP Group
 
 ### Overview
@@ -30,6 +28,7 @@ The broad topic of this reading group is *HRI & Language*: we want to get an ove
 | 2022-05-10 | J. Y. Chai, L. She, R. Fang, S. Ottarson, C. Littley, C. Liu, and K. Hanson, “Collaborative effort towards common ground in situated human-robot dialogue,” in 2014 9th ACM/IEEE International Conference on Human-Robot Interaction (HRI). IEEE, 2014, pp. 33–40. |
 | 2022-05-24 | CANCELLED |
 | 2022-06-07 | Branigan, H. P., Pickering, M. J., Pearson, J., & McLean, J. F. (2010). Linguistic alignment between people and computers. Journal of pragmatics, 42(9), 2355-2368. |
+| 2022-06-21 | Wallbridge, C. D., Smith, A., Giuliani, M., Melhuish, C., Belpaeme, T., & Lemaignan, S. (2021). The effectiveness of dynamically processed incremental descriptions in human robot interaction. ACM Transactions on Human-Robot Interaction (THRI), 11(1), 1-24. |
 
 ### Future readings
 
@@ -38,8 +37,6 @@ Han, Z., Phillips, E., & Yanco, H. A. (2021). The Need for Verbal Robot Explanat
 Arnold, T., Kasenberg, D., & Scheutz, M. (2021). Explaining in Time: Meeting Interactive Standards of Explanation for Robotic Systems. ACM Transactions on Human-Robot Interaction (THRI), 10(3), 1-23.
 
 Thomas, P., Czerwinksi, M., McDuff, D., & Craswell, N. (2021). Theories of conversation for conversational IR. ACM Transactions on Information Systems (TOIS), 39(4), 1-23.
-
-Wallbridge, C. D., Smith, A., Giuliani, M., Melhuish, C., Belpaeme, T., & Lemaignan, S. (2021). The effectiveness of dynamically processed incremental descriptions in human robot interaction. ACM Transactions on Human-Robot Interaction (THRI), 11(1), 1-24.
 
 Stange, S., & Kopp, S. (2020, March). Effects of a social robot’s self-explanations on how humans understand and evaluate its behavior. In 2020 15th ACM/IEEE International Conference on Human-Robot Interaction (HRI) (pp. 619-627). IEEE.
 
