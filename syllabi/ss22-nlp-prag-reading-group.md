@@ -8,6 +8,8 @@
 
 *v0.4 2022-05-31: Add paper 3*
 
+*v0.4 2022-06-14: Add paper 4*
+
 ## Agenda for the Reading Group on "NLP Pragmatics", Summer 2022, CLP Group
 
 ### Overview
@@ -46,6 +48,6 @@ Background reading for all sessions (if you are unfamiliar with pragmatics):
 | 2022-05-17 | Pandia, L., Cong, Y., & Ettinger, A. (2021). Pragmatic competence of pre-trained language models through the lens of discourse connectives. Proceedings of the 25th Conference on Computational Natural Language Learning, 367–379. https://doi.org/10.18653/v1/2021.conll-1.29 |  |
 | 2022-05-31 | Goldwasser, D., & Daumé III, H. (2014). “I Object!” Modeling Latent Pragmatic Effects in Courtroom Dialogues. Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, 655–663. https://doi.org/10.3115/v1/E14-1069 ||
 | 2022-06-14 | Gubelmann, R., & Handschuh, S. (2022). Context Matters: A Pragmatic Study of PLMs’ Negation Understanding. Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 4602–4621. https://aclanthology.org/2022.acl-long.315 ||
-| 2022-06-28 | ||
+| 2022-06-28 | Testoni, A., Greco, C., & Bernardi, R. (2022). Artificial Intelligence Models Do Not Ground Negation, Humans Do. GuessWhat?! Dialogues as a Case Study. Frontiers in Big Data, 4. https://www.frontiersin.org/article/10.3389/fdata.2021.736709 ||
 | 2022-07-12 | ||
 | 2022-07-26 | ||
