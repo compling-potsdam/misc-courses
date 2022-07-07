@@ -30,6 +30,7 @@ The broad topic of this reading group is *HRI & Language*: we want to get an ove
 | 2022-06-07 | Branigan, H. P., Pickering, M. J., Pearson, J., & McLean, J. F. (2010). Linguistic alignment between people and computers. Journal of pragmatics, 42(9), 2355-2368. |
 | 2022-06-21 | cancelled |
 | 2022-07-05 | Wallbridge, C. D., Smith, A., Giuliani, M., Melhuish, C., Belpaeme, T., & Lemaignan, S. (2021). The effectiveness of dynamically processed incremental descriptions in human robot interaction. ACM Transactions on Human-Robot Interaction (THRI), 11(1), 1-24. |
+| 2022-07-19 | J. Hough and D. Schlangen, “It’s not what you do, it’s how you do it: Grounding uncertainty for a simple robot,” in 2017 12th ACM/IEEE International Conference on Human-Robot Interaction (HRI). IEEE, 2017, pp. 274–282. |
 
 ### Future readings
 
@@ -74,8 +75,6 @@ S. E. Brennan, “The grounding problem in conversations with and through comput
 D. Das, S. Banerjee, and S. Chernova, “Explainable ai for robot failures: Generating explanations that improve user assistance in fault recovery,” in Proceedings of the 2021 ACM/IEEE International Conference on Human- Robot Interaction, 2021, pp. 351–360.
 
 K. Fischer, “How people talk with robots: Designing dialog to reduce user uncertainty,” AI Magazine, vol. 32, no. 4, pp. 31–38, 2011.
-
-J. Hough and D. Schlangen, “It’s not what you do, it’s how you do it: Ground- ing uncertainty for a simple robot,” in 2017 12th ACM/IEEE International Conference on Human-Robot Interaction (HRI. IEEE, 2017, pp. 274–282.
 
 S. Kiesler, “Fostering common ground in human-robot interaction,” in RO- MAN 2005. IEEE International Workshop on Robot and Human Interactive Communication, 2005. IEEE, 2005, pp. 729–734.
 
