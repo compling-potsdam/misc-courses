@@ -1,6 +1,6 @@
 *Natural Language Understanding? D. Schlangen, U Potsdam, Summer 2023*
 
-*v0.1 2023-04-12: initial version*
+*v0.25 2023-04-26: added technical background material; v0.1 2023-04-12: initial version*
 
 ## Syllabus for "Natural Language Understanding and the Meaning of ChatGPT", Summer 2023, D. Schlangen
 
@@ -79,6 +79,14 @@ In the first session, I will review how we got here (from Markov Chains to LLMs 
 - Jeremy Wanderer (2008), Robert Brandom. McGill-Queen's University Press. Chapter 1: Parrots.
 
 
+#### Technical Background
+
+Here are some recent articles that may help you get up to speed with the technical background:
+
+- Mark Riedl, [https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e](A Very Gentle Introduction to Large Language Models without the Hype); a nice introduction article
+- Stephen Wolfram, [What is ChatGPT Doing... and Why Does it Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/); a longer introduction, a little less hype-free
+- Sebastian Raschka, [https://magazine.sebastianraschka.com/p/understanding-large-language-models](Understanding Large Language Models); a collection of resources
+
 
 ### 01 - Phenomenology: Public Perception, Stunned Researchers, Panicking Rationalists <a name="phen"></a>
 
@@ -88,7 +96,7 @@ We'll start with a look at the state we're in: Confusion about what it all means
 
 #### Activity
 
-Bring examples from local media articles. How does the article talk about ChatGPT? What kinds of attributes does it ascribe to the sytem, explicitly or implicitly? Does it use terms like "understanding", "thinking"? What is the stance that takes towards it -- positive, negative, neutral? What does it say about its abilities, practical and in principle? 
+Bring examples from local media articles. (Better: Upload them to or put link into page on moodle, so that we can show them in class / use machine translation, if necessary.) How does the article talk about ChatGPT? What kinds of attributes does it ascribe to the sytem, explicitly or implicitly? Does it use terms like "understanding", "thinking"? What is the stance that takes towards it -- positive, negative, neutral? What does it say about its abilities, practical and in principle? 
 
 
 
@@ -220,6 +228,7 @@ Your preparation task will be to watch the debate (and see if you can find the s
 
 #### Further Readings
 
+- Søgaard, A. (2023). Grounding the Vector Space of an Octopus: Word Meaning from Raw Text. Minds and Machines.
 
 
 
