@@ -1,6 +1,6 @@
 *Natural Language Understanding? D. Schlangen, U Potsdam, Summer 2023*
 
-*v0.25 2023-04-26: added technical background material; v0.1 2023-04-12: initial version*
+*v0.4 2023-05-07: clarified role of discussants; v0.1 2023-04-12: initial version*
 
 ## Syllabus for "Natural Language Understanding and the Meaning of ChatGPT", Summer 2023, D. Schlangen
 
@@ -30,7 +30,17 @@ This is not a course about building Natural Language Understanding systems. We h
 
 **Main Reading** is the material that we will discuss in class. This must be read by all, and prepared by the presenters / discussion leaders. **Background Reading** is material that will help understand the main reading material, and should be read by the presenters (and is recommended to all). **Further Reading** is material that you can use to follow up on the topic of the week, if it caught your interest.
 
-This is a reading and discussion based course. The assumption will be that everyone has read everything under "Main Readings". Nevertheless, to help with the discussion, for each session there will be two "designated discussants". Their job is not necessarily to prepare a presentation / slides, but rather is to know the structure of the (argument in the) paper particularly well and to have thought about which segments of the text (or diagrams in it) will be particularly worth discussing. 
+This is a reading and discussion based course. The assumption will be that everyone has read everything under "Main Readings". Nevertheless, to help with the discussion, for each session there will be two "designated discussants". Their job is not necessarily to prepare a presentation / slides, but rather is to know the structure of the (argument in the) paper particularly well and to have thought about which segments of the text (or diagrams in it) will be particularly worth discussing.
+
+It can be a good idea to prepare a handout that can be distributed via moodle before the class. For this, you can copy verbatim sections of the paper around which you can structure the discussion, or figures from the paper, or examples of data from datasets, etc.. Prepare questions that you have or that you think can be discussed / viewed from different perspectives. (Send this to me on the Monday before your slot, so I can give feedback.)
+
+Here are some guiding questions that you can bring to the text:
+
+- What kind of view of meaning is implicitly (or sometimes even explicitly) argued for in the text? What is left out?
+- Implicitly or explicitly, what view of the *function* of language is espoused by the paper? Language as form of thought, or language as means for communication?
+- If relevant, what are the practical reflections of meaning / understanding that the text investigates? How representative of the phenomenon are they, in your opinion? What is left out?
+- How does the view expressed in the paper relate to what we've heard so far?
+- Keeping it real: How does what is labelled "understanding" in the paper relate to ordinary uses of that word, or ascriptions of "understanding" to persons or situations?
 
 Besides the discussants, there will also be additional roles to fill, for "minute keepers with an interest". These will take notes during the discussion (while also engaging in it), from different points of view. For example: Imagine that you are sent by a regulator charged with making laws about the use of "AI technologies". Take note of anything that might be helpful for them! Another protocol to be prepared is for a company that is thinking about using these technoologies in their knowledge work (keeping records about the company, deriving insights from company data). What do they need to be aware of? The third role is to keep notes for a journalist planning to write an article about the wonderful new world of AI (or maybe the terrible upcoming dystopia, they haven't decided yet).
 
@@ -77,15 +87,15 @@ In the first session, I will review how we got here (from Markov Chains to LLMs 
 - A recent talk of mine, "[NLP Use and Language Use: Toward Artificial Language Users?](https://clp.ling.uni-potsdam.de/talks/index.html#lithme)" that uses the same setup (comparing different ways language can come into the world). If you feel like listening to another 70 minutes of me talking.
 - Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big ? In Conference on Fairness, Accountability, and Transparency (FAccT ’21), March 3–10, 2021, Virtual Event, Canada (Vol. 1). Association for Computing Machinery. 
 - Jeremy Wanderer (2008), Robert Brandom. McGill-Queen's University Press. Chapter 1: Parrots.
-
+- [Last year's edition](https://github.com/compling-potsdam/misc-courses/blob/master/syllabi/ss22-nlu-lit.md) of this class, with a slightly different reading list, focussing a bit more on evaluation. Still very relevant marterial.
 
 #### Technical Background
 
 Here are some recent articles that may help you get up to speed with the technical background:
 
-- Mark Riedl, [https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e](A Very Gentle Introduction to Large Language Models without the Hype); a nice introduction article
+- Mark Riedl, [A Very Gentle Introduction to Large Language Models without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e); a nice introduction article
 - Stephen Wolfram, [What is ChatGPT Doing... and Why Does it Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/); a longer introduction, a little less hype-free
-- Sebastian Raschka, [https://magazine.sebastianraschka.com/p/understanding-large-language-models](Understanding Large Language Models); a collection of resources
+- Sebastian Raschka, [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models); a collection of resources
 
 
 ### 01 - Phenomenology: Public Perception, Stunned Researchers, Panicking Rationalists <a name="phen"></a>
