@@ -8,7 +8,7 @@ In the past couple of years, I've offered one such module every summer in the ge
 
 In the first part of the class, the students presented (to each other) one paper (from the list below) that used this dataset. They then picked one or two of those for the **replication** part, before in the final part the built on that work to come up with some **extension** of the proposed models.
 
-This page documents the results.
+This page documents the results. (Incomplete, as of June 2023.)
 
 
 #### Paper List
@@ -57,9 +57,7 @@ The students also contributed some fixes to the original repositories.
 Replicated papers:
 
 * Harm de Vries, Florian Strub, Sarath Chandar, Olivier
-Pietquin, Hugo Larochelle, and Aaron Courville.
-2016. Guesswhat?! visual object discovery through
-multi-modal dialogue.
+Pietquin, Hugo Larochelle, and Aaron Courville. 2016. Guesswhat?! visual object discovery through multi-modal dialogue.
 * Florian Strub, Harm de Vries, Jérémie Mary, Bilal
 Piot, Aaron Courville, and Olivier Pietquin. 2017.
 End-to-end optimization of goal-driven and visually
