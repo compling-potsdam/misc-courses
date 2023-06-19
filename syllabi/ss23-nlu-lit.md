@@ -1,6 +1,6 @@
 *Natural Language Understanding? D. Schlangen, U Potsdam, Summer 2023*
 
-*v0.6 2023-06-19: added Gelfert-2014 to 09, swapped out for Harris et al.; v0.5 2023-05-15: Added background to Benchmarking section; v0.1 2023-04-12: initial version*
+*v0.6 2023-06-19: added Gelfert-2014 to 09, swapped out for Harris et al.; v0.5 2023-05-15: Added background to Benchmarking section; v0.4 2023-05-07: clarified role of discussants; v0.1 2023-04-12: initial version*
 
 ## Syllabus for "Natural Language Understanding and the Meaning of ChatGPT", Summer 2023, D. Schlangen
 
